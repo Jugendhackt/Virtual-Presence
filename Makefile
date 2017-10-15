@@ -1,4 +1,4 @@
-appname := 4dl
+appname := device-orientation
 
 sources := $(wildcard *.go)
 
